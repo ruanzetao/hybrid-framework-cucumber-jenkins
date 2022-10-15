@@ -1,0 +1,15 @@
+/allure.properties
+/com/
+/commons/
+/log4j.dtd
+/log4j.xml
+/pageObjects/
+/pageUIs/
+/reportConfig/
+/runNCTest.xml
+/runNCTest_MyAccount.xml
+/runNCTest_RegisterAccount.xml
+/runNCTest_RegisterAccount_Allure.xml
+/runNCTest_Register_Login.xml
+/runNCTest_Search_Function.xml
+/utilities/
